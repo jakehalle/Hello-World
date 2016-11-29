@@ -1,5 +1,5 @@
 # Hello-World
 ancioancn
 
-;smile;
+:smile:
 
